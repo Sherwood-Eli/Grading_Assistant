@@ -1,0 +1,9 @@
+#This is the autoTests.txt template
+#Lines that begin with '#' are commented out
+#all other lines will be run as commands against student code
+#if wanting to run a command as a subprocess, first arg must be SUB:
+#   all args are separated by spaces, args inside of {}, separated by spaces, are used as input
+#   ex; SUB python3 test.py {5,6,hi}
+#   above the python program test.py is run and 5, 6 and "hi" are used as the first, second and third input responses.
+#   even if input is not desired, still use {}
+#   if no input is specified, program is run as normal and input can be added manually
