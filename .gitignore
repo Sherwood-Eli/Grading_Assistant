@@ -1,5 +1,7 @@
 #ignore all directories (these would have been created by the program in use
 */
+#ignore access key
+canvasAccessKey.txt
 
 #############################################
 #Below was added by github gitignore template
