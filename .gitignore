@@ -1,3 +1,10 @@
+#ignore all directories (these would have been created by the program in use
+*/
+
+#############################################
+#Below was added by github gitignore template
+#############################################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
