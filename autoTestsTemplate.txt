@@ -7,3 +7,5 @@
 #   above the python program test.py is run and 5, 6 and "hi" are used as the first, second and third input responses.
 #   even if input is not desired, still use {}
 #   if no input is specified, program is run as normal and input can be added manually
+#   note the difference between args and input; the above example provides input to be read by the "input()" function
+#   if args are desired instead, use this form: SUB python3 test.py arg1 arg2 {}
